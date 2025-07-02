@@ -19,9 +19,8 @@ Este projeto realiza uma análise exploratória do conjunto de dados 'Titanic - 
 - Dados: arquivo `train.csv` baixado do [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data).
 
 ## Como Executar 📦
-1. Clone este repositório.
-2. Abra o notebook `analise-titanic.ipynb` em um ambiente Jupyter (Kaggle/Google Colab).
-3. Execute as células na ordem para acompanhar a análise.
+Entre no link e visualize o projeto no Kaggle
+https://www.kaggle.com/code/helosasantos/analise-titanic
 
    
 ## Resultados Principais
